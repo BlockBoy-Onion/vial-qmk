@@ -9,6 +9,11 @@
         "pid": "0x6060",
         "vid": "0xFEED"
     },
+    "host": {
+        "default": {
+            "nkro": true
+        }
+    },
     "build": {
         "lto": true
     },
